@@ -32,7 +32,11 @@ h2 {
 .half-width img {
   width: 80%;
 }
-
+#munna {
+  height: 85%;
+  border-radius: 100%;
+  margin-left: 100px;
+}
 .button {
   text-decoration: none;
   background-image: linear-gradient(orange, tomato);
